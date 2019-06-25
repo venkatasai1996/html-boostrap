@@ -1,0 +1,55 @@
+.venkat{
+    border: 1px solid #dddddd;
+    width: 300px;
+    margin: 20px;
+    padding: 30px;
+    background-color:#fff;
+
+}
+body{
+    background-color:#f8f9fa;
+    display : inline-flex !important;
+    margin-top:68px;
+    margin-left: 290px;    
+}
+.img{
+    margin:20px 35px;
+
+}
+.sell{
+    text-align:center;
+}
+.p{
+    text-align: center;
+    color:#77838f;
+    line-height:1.7;
+    font_size:13px;
+}
+.submit {
+    color:#de4437;
+    background:rgba(222,68,55,0.1);
+    border-color:transparent;
+    padding: 5px 10px;
+    margin-left:100px; 
+    border-radius: 10px;
+    
+}
+.submit:hover{
+    background:#de4437;
+    color:whitesmoke
+
+}
+.submit1 {
+    color:#377dff;
+    background:lightblue;
+    border-color:transparent;
+    padding: 5px 10px;
+    margin-left:100px; 
+    border-radius:10px;
+}
+.submit1:hover{
+    background:#377dff;
+    color:whitesmoke;
+}
+
+

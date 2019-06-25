@@ -1,0 +1,9 @@
+.venkat{
+border: 1px solid black;
+}
+table{
+    border : 3px solid black !important;
+}
+ th{
+    border: 2px solid blue;
+}

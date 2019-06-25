@@ -1,0 +1,11 @@
+body{
+    border:1px solid black;
+    border-right:50px;
+    margin-right: 50p
+}
+.p{
+    text-align: center;
+    color:#77838f;
+    line-height:1.7;
+    font_size:13px
+}
