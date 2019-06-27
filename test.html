@@ -5,17 +5,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>javascrpit</title>
+    
+    
     <style>
+          input{
+           border: 1px solid rgb(247, 144, 144);
+          }
         body{
             text-align: center;
         }
     </style>
 </head>
 <body>
-        <input type="text" placrholder="enter name" id="input1"/>
-        <input type="number" placrholder="enter age" id="input2"/>
-        <button onclick="printdetails()">submit</button>
-        
-    
+        <input type="number" placeholder="enter value one" id="input1"/><br/>
+        <input type="number" placeholder="enter value two" id="input2"/><br/> 
+        <button onclick= 'sum()'>add</button>
+        <button onclick="substraction()">substraction</button>
+        <button onclick="multiplication()">multiplication</button>
+        <button onclick="division()">Division</button>
+    <h2 id="output"></h2>
 </body>
+<script src="sample.js"></script>
 </html>
